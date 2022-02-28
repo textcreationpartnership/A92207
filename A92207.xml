@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An evening sacrifice, or prayer for a family; necessary for these calamitous times.</title>
+            <author>Reading, John, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92207</idno>
+            <idno type="STC">Wing R445A</idno>
+            <idno type="STC">Thomason E1144_6</idno>
+            <idno type="STC">ESTC R208501</idno>
+            <idno type="EEBO-CITATION">99867448</idno>
+            <idno type="PROQUEST">99867448</idno>
+            <idno type="VID">169409</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92207)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169409)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 164:E1144[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An evening sacrifice, or prayer for a family; necessary for these calamitous times.</title>
+                  <author>Reading, John, 1588-1667.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Attributed to John Reading.</note>
+                  <note>Annotation on Thomason copy: "by John Reading of Dover"; "Aug: 5".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Family --  Prayer-books and devotions --  Early works to 1800.</term>
+               <term>Family --  Religious life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169409:1"/>
+            <pb facs="tcp:169409:1" rendition="simple:additions"/>
+            <p>AN Evening Sacrifice OR PRAYER FOR A FAMILY; Neceſſary for theſe cala<g ref="char:EOLhyphen"/>mitous Times.</p>
+            <p>Printed in the yeer. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:169409:2"/>
+            <pb n="1" facs="tcp:169409:2"/>
+            <head>AN Evening SACRIFICE OR PRAYER for a FAMILY; Neceſſary for theſe calamitous times.</head>
+            <p>
+               <seg rend="decorInit">O</seg> Lord God Almighty, protector, and preſerver of all thy Creatures, thy glory covereth the Heavens, and the Earth is full of thy praiſe; than art gracious, and of great mercy in par<g ref="char:EOLhyphen"/>doning thoſe who confeſſe, and for<g ref="char:EOLhyphen"/>ſake their ſins; but dreadfull in the execution of thy judgements on all thoſe who hide them, and obſturately go on in their rebellions againſt thy ſacred Maieſty: their judgement ſleepeth n<gap reason="illegible: faint" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and the day haſteth on wherein the Heavens ſhall <note place="margin">2 <hi>Pet.</hi> 3. 10.</note> paſſe away with a noiſe, the Elements melt with heat, and the Earth with all the works therein, ſhall be burnt up, and Chriſt the Iudge of the living and the dead, ſhall ſhew himſelf from Heaven, with mil<g ref="char:EOLhyphen"/>lions of Angels in flaming fire, to render vengeance to the wicked, and to recompence every man according to his deſervings. Remembring the terrour of that day, the ſeverity of thy Iuſtice, how impoſſible it is to flye from thee, how dreadfull to fall into thine hands when thou art angry; and finding no ground of com<g ref="char:EOLhyphen"/>fort out of thee, and thy Chriſt no way to eſcape thy Iuſtice, but by flying to thy free grace; we appeal from thy tribunall of Iudgement, unto the ſanctuary of thy Mercy, let open unto us in that onely living way thy Son our Saviour Ieſus Chriſt, humbly acknowledging, that ſo many and ſo grievous have our ſins, and tranſgreſſions continually been, in the con<g ref="char:EOLhyphen"/>tempt of thy Word, careleſſe neglect of our ſouls health, impious purſuance of our own vile deſires, omiſſion of holy dueties, for the proſecution of our own vain and ſinfull purpoſes, as that never durſt we lift up an eye to Heaven, nor could we an heart to Prayer; didſt not thou whoſe mercy pulleth us like
+<pb n="2" facs="tcp:169409:3"/>
+brands out of the fire, help our infirmities by thy holy Spirit, endite our Petitions when we know not what <note place="margin">
+                  <hi>Rom.</hi> 8. <hi>Matth.</hi> 11. <hi>Pſal.</hi> 50. 15. <hi>Zeph.</hi> 1. 12.</note> to pray, as we ought, and invite us to call upon thee by promiſing to hear and help us. We know O Lord, that if thou who ſearchedſt <hi>Ieruſalem</hi> with lights, and puniſhedſt them who ſetled on their lees, ſhouldſt now examine our lives and converſations in our cuſtomary living, nakedneſſe, and deſtitution of grace, we could not but be aſhamed and confounded at thy preſence, having no excuſe for our vileneſſe, no pretence for our juſtification left us: Thou haſt nouriſhed and brought up children, but we have continually rebelled againſt thee, and followed our own unhappy wayes; thou haſt revealed thy will concerning our ſalvation, but we have prodigally ſpent that portion of knowledge, wherewith thou haſt not once, but continually fur<g ref="char:EOLhyphen"/>niſhed us by thy Word preached to beget faith and obedience in us, and to open unto us the ineſtimable riches of thy grace and mercy in Chriſt Ieſus; thou haſt ever béen a tender and gracious Father unto us, but we have ſinned againſt Heaven and againſt thee, and are no more worthy to be called thy ſons: we have conſulted ſhame to our families, and confuſion to our own ſouls, and if we would hide our iniquities, the <note place="margin">
+                  <hi>Hab.</hi> 2. 11.</note> ſtone ſhould cry out of the wall, and the beam out of the timber witneſſe againſt it: if thou whoſe all<g ref="char:EOLhyphen"/>ſeeing eve of Iuſtice runneth to and fro through the whole Earth, ſhall be extream to mark what is done amiſſe, thou needeſt no witneſſe, becauſe the evidence of every fact cryeth unto thee, nor further examina<g ref="char:EOLhyphen"/>tion of the Book of Remembrance, then concerning the ſins of this day ſufficient to condemn us, to make our houſes deſolation, and our ſouls examples of thy juſt judgements on tranſgreſſors: we have by our heardneſſe of heart, and ſecure impenitency ſtored up to our ſelves, wrath againſt the day of thy fierce wrath, and revelation of thy righteous judgements: O Lord we confeſſe, that we deſerve to be ſmitten with blaſting and mildews in all the labours of our hands; that the Heavens over us ſhould either poure down drowning floods, or be ſtayed from dew, and the
+<pb n="3" facs="tcp:169409:3"/>
+Earth from her fruit, and that after this dreadfull exe<g ref="char:EOLhyphen"/>cution of thy wrath, by the ſpirit of diviſion ſent a<g ref="char:EOLhyphen"/>mongſt us, and the ſword in mutuall ſlaughters, drunken with the native blood of this Lands Inhabi<g ref="char:EOLhyphen"/>tants, thou ſhouldſt alſo call for a forraign enemy, or a famine and peſtilence to conſume the reſidue: But O Lord, our wounds are already dolorous, our afflicti<g ref="char:EOLhyphen"/>ons grievous, and our cries dolefull from <hi>Dan</hi> to <hi>Beer<g ref="char:EOLhyphen"/>ſheba,</hi> from one end of the Land to the other, ſuch as may move an enemy to pitty, ſuch as do make us a wonder and aſtoniſhment, not onely to thoſe neigh<g ref="char:EOLhyphen"/>bouring Nations (who have lately envyed our happy peace and plenty) but alſo to our ſelves, for as much as this whole deſtruction is of our ſelves, who ſuffici<g ref="char:EOLhyphen"/>ently feel the judgement, and yet cannot ſtay our own wretched hands from a deſperate purſuite and execu<g ref="char:EOLhyphen"/>tion thereof upon our ſelves. Yet when we conſider our many provocations of thy juſtice by our unthank<g ref="char:EOLhyphen"/>fulneſſe for all thy bleſſings, abaſe of thy good Crea<g ref="char:EOLhyphen"/>tures, wilfull ſtopping our ears to thy Prophets, whoſe meſſages we have not layed to heart, nor heark<g ref="char:EOLhyphen"/>ned to them when they cryed to us to turn from our e<g ref="char:EOLhyphen"/>vill wayes, our vain confidence in the counſells of men, and in arm of fleſh, we cannot ſo much wonder at the preſent curſe which is upon us, and that thou haſt béen ſore diſpleaſed with us, as that thou didſt not long ſince deſtroy us, or doeſt not utterly now; ſéeing we have not yet profited by thy fatherly corrections, <note place="margin">
+                  <hi>Nehem.</hi> 1. 6, 7.</note> nor turned to the Hand that ſmiteth us. But O Lord, who can ſtand before thine indignation and endure the fierceneſſe of thine anger? Spare us, good Lord, miſe<g ref="char:EOLhyphen"/>rable Creatures, but the work of thine own hands: who is God like unto thée, that pardoneth iniquity, and paſſeth by tranſgreſſion? Have mercy on us, wretched ſinners, but the people whom thou haſt redéemed: Lord retain not thine anger for ever: thou who de<g ref="char:EOLhyphen"/>lighteſt in mercy, turn again, and have compaſſion on us: ſubdue our iniquities, caſt all our ſins into the depth of the Sea, that they may no more appear in judgement againſt us, to provoke thine anger to our deſtruction: perform thy truth, and thy mercy
+<pb n="4" facs="tcp:169409:4"/>
+to us: revive thy work, and in judgement ſhew mer<g ref="char:EOLhyphen"/>cy: thou delighteſt not in the miſery, nor deſireſt the death of wretched ſinners, but that they may be con<g ref="char:EOLhyphen"/>verted and live: O Lord, it is too much miſery to be ſinners, let not thy juſtice preſſe upon the wounds of our afflicted ſoule, nor follow us with the bitter fruits of our ſins, the guilt and dreadfull puniſhment due to the ſame in the finall deſolation which now threatneth this Land: Lord conſider to whom thou haſt done this; thou haſt given us the Seals of thy Covenant, whereby we are called thine: Lord deſtroy not the work of thine own mercy; thou reconciledſt us when we were enemies; caſt us not away, ſéeing thou haſt made us thy Sons: though thou afflict us with grief, and fill us with bitterneſſe, to make us conſider our waves, and to return unto thée; yet thou haſt not for<g ref="char:EOLhyphen"/>gotten to be gracious, nor is thy mercy come to an end for ever: Therefore have compaſſion on us: we have rebelled, and thou haſt not ſpared: fear and ſnare, deſtruction and deſolation are come upon us: we hope, and attain not, we cry unto thée, but yet, O holy one of <hi>Iſrael,</hi> it appeareth not that thou heareſt us: yet we beleeve (Lord help our unbelief) and are aſſured of the truth of thy promiſe once to heare us: But Lord how long ſhall we mourn, and finde no com<g ref="char:EOLhyphen"/>fort in our ſouls? We know we cannot be deceived in our confidence, for thou haſt never failed them that truſt in thée: Lord try us not above that patience which thou wilt give us, and ſo thy holy will be done: Reject us not finally, and ſo give us patience to expect thy ſaving health: Bleſſed Ieſus, who after many ſharp repulſes, gaveſt a gracious anſwer to that im<g ref="char:EOLhyphen"/>portunate <hi>Canaanites</hi> interceſſion, now at laſt anſwer our Petitions with comfort: Lord look down from Heaven, and behold how we labour and have no reſt: Where our Prayers want fervency, poure out upon us thy Spirit of grace and ſupplications: where our ſins hinder thy mercy, in mercy turn us unto thee, and we ſhall be turned: where our hardneſſe of heart holdeth us in impenitency, take away our ſtony hearts, and give us hearts of fleſh: give us unfeigned repentance,
+<pb n="5" facs="tcp:169409:4"/>
+who will aſſuredly ſhew mercy to the penitent: re<g ref="char:EOLhyphen"/>new our dayes as of old: thou art our portion, give us not over unto the will of our deſtroyers: we reſigne our ſelves wholly into thy hands, O Lord our Maker, make us ſuch as thou wouldſt have be, that thou maiſt be pleaſed to ſhew mercy unto us in our deliverance: give us reſt from our dayes of trouble, that we may again rejoyce in thée, before we go hence into the ſilent grave, where none can praiſe thée: let the end of all our ſufferings be thy glory, and our amendment, not our deſtruction.</p>
+            <p>Neither are we mindfull of our ſelves alone, but we humbly pray thée alſo for thy univerſall Church: Lord bleſſe her with the Spirit of Truth and Unity: Suppreſſe all thoſe unhappy Schiſmes, Hereſies, and Factions, which any wayes, or any where, diſtract, or diſquiet thy little flock: Lord God of Unity, grant that all we who profeſſe one truth of the Goſpel of Ieſus Chriſt may by our mutuall love approve our ſelves his Diſciples; and being united by his good Spirit, may all hold that unity in the hand of peace, to the glory of thy great Name, who art the God of peace; to the adorning of the Goſpel, which is the doctrine of peace: to the good example of our Bre<g ref="char:EOLhyphen"/>thren who are the ſons of peace: to the ſilencing them who are the enemies of peace, and to the endleſſe peace, and comfort of our ſouls and conſciences, through Ieſus Chriſt our Lord.</p>
+            <p>Bleſſe our Soveraign Lord the King; ſave and defend Him, that He may defend the Faith and faith<g ref="char:EOLhyphen"/>full People: Kéep Him from all Treaſons and Con<g ref="char:EOLhyphen"/>ſpiracies, confound the Councells of all miſchievous Ahithophels: give Him the Spirit of Wiſedome and Counſell to govern this people in peace and god<g ref="char:EOLhyphen"/>lineſſe: Bleſſe Him with aboundance of peace, a proſperous Raign, Faithfull ſubjection of His Peo<g ref="char:EOLhyphen"/>ple, length of dayes, and eternall happineſſe in the world to come. Bleſſe the Quéen, and the Royall Iſſue: Lord ſo ſeaſon their tender yéers, with grace and truth, that in their riper Age, they may become nurſing Fathers, and nurſing Mothers to thy Church:
+<pb n="6" facs="tcp:169409:5"/>
+Bleſſe all the Counſellors, Iudges, and Miniſters of State, with Wiſedome, Fidelity, and Equity: be with them in the Cauſe, and direct them in the ſen<g ref="char:EOLhyphen"/>tence ſo, as that they may Councell prudently, and Iudge equally, ever remembring that themſelves muſt ere long ſtand before thy more dreadfull tribu<g ref="char:EOLhyphen"/>nall, where there is no reſpect of Perſons: Bleſſe all the faithfull Miniſters of thy holy Word and Sa<g ref="char:EOLhyphen"/>craments, with ſincerity of life, and ſoundneſſe of doctrine, that they may faithfully and powerfully diſ<g ref="char:EOLhyphen"/>pence thy ſaving Myſteries, and lead thy People in the ſtrait paths of Life everlaſting: ſhew thy mercy on all the afflicted Servants of Chriſt Ieſus: apply thy Comforts to them according to their ſeverall wants and neceſſities: ſpeak peace unto their ſouls, and aſſure them of thy ſaving health, that they faint not under their burden.</p>
+            <p>Bleſſe and kéep this Family, and all that thou haſt given us: ſet thy fear in every one of our hearts, and make us all thy faithfull Servants: preſerve us from all noyſome contagion and infection of bodies and ſouls from all the ſnares of ſin, Satan, the World, and the Fleſh; from the power of the adverſary; from rob<g ref="char:EOLhyphen"/>bers, ſpoilers, and oppreſſions, and from all dangers, ſpirituall or temporall; forgive us all our neglects, and failings this day paſt.</p>
+            <p>And now that the night and darkneſſe are upon us, wherein thou haſt appointed that we ſhall reſt; we humbly pray thée, whoſe providence, neither ſléepeth, nor can be prevented by any ſudden evill, to watch o<g ref="char:EOLhyphen"/>ver us, and preſerve us ſo, as that our ſléep may be comfortable for the refreſhidg our weary bodies, that our ſouls reſting in thee, we may awake enabled to thy ſervice, and the works of our callings: Into thy hands, O Lord, we commend, and commit our ſelves, bodies, and ſouls, and all that which thou haſt given us, and made neer and dear unto us, whether we ſleep or wake, live, or die, have us ever in thy gracious keeping this night, and ever more. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:169409:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
